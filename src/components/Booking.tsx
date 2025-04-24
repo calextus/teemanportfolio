@@ -87,14 +87,14 @@ export default function Booking() {
                 <Phone className="w-6 h-6 text-green-500" />
               </div>
               <h4 className="text-lg font-semibold text-white mb-2">Phone</h4>
-              <p className="text-gray-300">+27 </p>
+              <p className="text-gray-300">+27 62 787 0931</p>
             </div>
             <div className="bg-gray-900 rounded-lg p-6 text-center">
               <div className="w-12 h-12 bg-green-500/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Mail className="w-6 h-6 text-green-500" />
               </div>
               <h4 className="text-lg font-semibold text-white mb-2">Email</h4>
-              <p className="text-gray-300">bookings@teeman.com</p>
+              <p className="text-gray-300">monyekethemba8@gmail.com</p>
             </div>
             <div className="bg-gray-900 rounded-lg p-6 text-center">
               <div className="w-12 h-12 bg-green-500/10 rounded-full flex items-center justify-center mx-auto mb-4">
