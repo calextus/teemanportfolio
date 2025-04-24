@@ -7,19 +7,7 @@ const tracks = [
     title: "Midnight Dreams",
     duration: "3:45",
     url: "#",
-    external: "https://open.spotify.com"
-  },
-  {
-    title: "Urban Echo",
-    duration: "4:20",
-    url: "#",
-    external: "https://open.spotify.com"
-  },
-  {
-    title: "Electric Soul",
-    duration: "3:55",
-    url: "#",
-    external: "https://open.spotify.com"
+    external: "​https://soundcloud.com/lmusic-studios/"
   }
 ];
 
