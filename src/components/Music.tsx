@@ -4,8 +4,8 @@ import { Play, Pause, ExternalLink } from 'lucide-react';
 
 const tracks = [
   {
-    title: "Midnight Dreams",
-    duration: "3:45",
+    title: "Mama",
+    duration: "3:00",
     url: "#",
     external: "​https://soundcloud.com/lmusic-studios/"
   }
