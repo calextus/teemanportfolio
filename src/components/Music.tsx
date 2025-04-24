@@ -57,7 +57,7 @@ export default function Music() {
 
         <div className="text-center mt-12">
           <a 
-            href="https://open.soundcloud.com"
+            href="https://soundcloud.com"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-orange-500 text-white px-8 py-3 rounded-full font-semibold hover:bg-green-600 transition-colors"
